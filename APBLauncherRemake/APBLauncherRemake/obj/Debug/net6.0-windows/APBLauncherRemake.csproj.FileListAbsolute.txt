@@ -1,0 +1,17 @@
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\bin\Debug\net6.0-windows\APBLauncherRemake.exe
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\bin\Debug\net6.0-windows\APBLauncherRemake.deps.json
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\bin\Debug\net6.0-windows\APBLauncherRemake.runtimeconfig.json
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\bin\Debug\net6.0-windows\APBLauncherRemake.dll
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\bin\Debug\net6.0-windows\APBLauncherRemake.pdb
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\obj\Debug\net6.0-windows\APBLauncherRemake.csproj.AssemblyReference.cache
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\obj\Debug\net6.0-windows\APBLauncherRemake.MainWindow.resources
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\obj\Debug\net6.0-windows\APBLauncherRemake.csproj.GenerateResource.cache
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\obj\Debug\net6.0-windows\APBLauncherRemake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\obj\Debug\net6.0-windows\APBLauncherRemake.AssemblyInfoInputs.cache
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\obj\Debug\net6.0-windows\APBLauncherRemake.AssemblyInfo.cs
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\obj\Debug\net6.0-windows\APBLauncherRemake.csproj.CoreCompileInputs.cache
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\obj\Debug\net6.0-windows\APBLauncherRemake.dll
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\obj\Debug\net6.0-windows\refint\APBLauncherRemake.dll
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\obj\Debug\net6.0-windows\APBLauncherRemake.pdb
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\obj\Debug\net6.0-windows\APBLauncherRemake.genruntimeconfig.cache
+C:\Users\Entrave\source\repos\APBLauncherRemake\APBLauncherRemake\obj\Debug\net6.0-windows\ref\APBLauncherRemake.dll
